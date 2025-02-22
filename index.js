@@ -62,7 +62,7 @@ var __generator = (this && this.__generator) || function (thisArg, body) {
 // function printUser(username: User) {
 //     console.log(`${username.name} is ${username.age} years old`);
 // }
-// // ✅ Call the function to display output
+// //  Call the function to display output
 // printUser(username);
 // // Arrays
 // let number: number[] = [1, 2, 3, 4];
