@@ -79,7 +79,6 @@ async function fetchUsers(): Promise<User[]> {
     }
 }
 
-// Example usage with error handling
 async function displayUsers() {
     try {
       const users: User[] = await fetchUsers();
